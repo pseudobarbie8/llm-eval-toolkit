@@ -1,0 +1,5 @@
+{"prompt": "What is the capital of Morocco? Answer in one word.", "expected": "Rabat"}
+{"prompt": "What is 17 * 3? Answer with just the number.", "expected": "51"}
+{"prompt": "Which planet is known as the Red Planet? One word.", "expected": "Mars"}
+{"prompt": "What is the chemical symbol for gold?", "expected": "Au"}
+{"prompt": "How many days are in a leap year? Just the number.", "expected": "366"}
