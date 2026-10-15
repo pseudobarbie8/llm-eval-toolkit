@@ -1,0 +1,7 @@
+pandas
+tabulate
+requests
+python-dotenv
+openai
+anthropic
+pytest
